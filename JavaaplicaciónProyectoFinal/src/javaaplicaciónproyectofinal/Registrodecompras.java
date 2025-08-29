@@ -22,6 +22,7 @@ public class Registrodecompras {
         double promedio = total / 3;
 
         // Resultados
+        System.out.println("==========TOTAL========");
         System.out.println("\nCliente: " + nombre);
         System.out.println("Total de compras   : " + total);
         System.out.println("Promedio de compras: " + promedio);
